@@ -10,7 +10,9 @@ He randomly generate enemies based on the character power and all the parameter 
 
 *************************************
 <h1>How to run </h1>
-load sbcl 
+<br>Download the main code "geneticAlg.lisp"
+<br> Run it on sbcl or slime (if you're using emacs)
+<br>Load sbcl 
 <br>(load "geneticAlg.lisp")
 <br>(main popul power)
 
