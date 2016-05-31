@@ -1,4 +1,4 @@
-# RandomEnemyWithLisp
+# Genetic Algorithm aplication in Common Lisp
 Compiled with sbcl 1.3.3 and 1.3.5
 ***************************************
 Create random enemys for a game using lisp and genetic algorithm.
