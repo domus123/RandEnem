@@ -12,10 +12,13 @@ He randomly generate enemies based on the character power and all the parameter 
 <h1>How to run </h1>
 <br>Download the main code "geneticAlg.lisp"
 <br> Run it on sbcl or slime (if you're using emacs)
-<br>Load sbcl 
-<br>(load "geneticAlg.lisp")
-<br>(main popul power)
-
+```shell 
+$ sbcl 
+```
+```lisp
+(load "geneticAlg.lisp")
+(main popul power)
+```
 *************************************
 <h5>License</h5>
 <br>This code was created by Lucas Guerra Borges.
